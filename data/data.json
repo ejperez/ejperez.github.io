@@ -1,0 +1,115 @@
+{
+	"items": [
+		{
+			"type": "web",
+			"title": "Cifra",
+			"thumbnail_image": "img/content/ejcifra.jpg",
+			"image": "img/content/ejcifra-full.jpg",
+			"url": "https://ejperez.github.io/ejcifra",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "web",
+			"title": "Youtubeoke",
+			"thumbnail_image": "img/content/youtubeoke.jpg",
+			"image": "img/content/youtubeoke-full.jpg",
+			"url": "https://ejperez.github.io/youtubeoke/",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "web",
+			"title": "Song Coder",
+			"thumbnail_image": "img/content/song-coder.jpg",
+			"image": "img/content/song-coder-full.jpg",
+			"url": "https://ejperez.github.io/songcoder/",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "web",
+			"title": "Who Wants To Be A Yobonaire",
+			"thumbnail_image": "img/content/yobo5.jpg",
+			"image": "img/content/yobo5-full.jpg",
+			"url": "https://ejperez.github.io/yobo5/",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "web",
+			"title": "Yobo@25",
+			"thumbnail_image": "img/content/yobo25.jpg",
+			"image": "img/content/yobo25-full.jpg",
+			"url": "https://ejperez.github.io/yobo25/",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "web",
+			"title": "Playground",
+			"thumbnail_image": "img/content/playground.jpg",
+			"image": "img/content/playground-full.jpg",
+			"url": "https://ejperez.github.io/playground/",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "music",
+			"title": "Awit Kay Yobo",
+			"thumbnail_image": "img/content/awit-kay-yobo.jpg",
+			"embed_url": "https://www.youtube.com/embed/XdevE9jsZXk?rel=0",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "music",
+			"title": "Jam 01",
+			"thumbnail_image": "img/content/jam01.jpg",
+			"embed_url": "https://www.youtube.com/embed/kS9S5eDS3IA?rel=0",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "music",
+			"title": "Waves",
+			"thumbnail_image": "img/content/waves.jpg",
+			"embed_url": "https://www.youtube.com/embed/lXahFHKhr4w?rel=0",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "music",
+			"title": "Buhay ng Pagpupuri",
+			"thumbnail_image": "img/content/buhay-ng-pagpupuri.jpg",
+			"embed_url": "https://www.youtube.com/embed/y4MYvcZuVGo?rel=0",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "music",
+			"title": "Alab",
+			"thumbnail_image": "img/content/alab.jpg",
+			"embed_url": "https://www.youtube.com/embed/WQW1rsvrT1U?rel=0",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "music",
+			"title": "Alab EDM",
+			"thumbnail_image": "img/content/alab-edm.jpg",
+			"embed_url": "https://www.youtube.com/embed/gDb61iorw88?rel=0",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "graphics",
+			"title": "graphics 1",
+			"thumbnail_image": "img/content/thumbnail.jpg",
+			"image": "img/content/full.jpg",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "activities",
+			"title": "activity 1",
+			"thumbnail_image": "img/content/thumbnail.jpg",
+			"image": "img/content/full.jpg",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		},
+		{
+			"type": "activities",
+			"title": "activity 2",
+			"thumbnail_image": "img/content/thumbnail.jpg",
+			"image": "img/content/full.jpg",
+			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
+		}
+	]
+}
