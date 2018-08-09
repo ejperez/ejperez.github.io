@@ -2,7 +2,7 @@
 	"items": [
 		{
 			"type": "web",
-			"title": "Cifra",
+			"title": "EJCifra",
 			"thumbnail_image": "img/content/ejcifra.jpg",
 			"image": "img/content/ejcifra-full.jpg",
 			"url": "https://ejperez.github.io/ejcifra",
@@ -91,24 +91,17 @@
 			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
 		},
 		{
-			"type": "graphics",
-			"title": "graphics 1",
-			"thumbnail_image": "img/content/thumbnail.jpg",
-			"image": "img/content/full.jpg",
+			"type": "music",
+			"title": "Red Velvet - Bad Boy Guitar Cover",
+			"thumbnail_image": "img/content/bad-boy.jpg",
+			"embed_url": "https://www.youtube.com/embed/FMoTivX7A6o?rel=0",
 			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
 		},
 		{
-			"type": "activities",
-			"title": "activity 1",
-			"thumbnail_image": "img/content/thumbnail.jpg",
-			"image": "img/content/full.jpg",
-			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
-		},
-		{
-			"type": "activities",
-			"title": "activity 2",
-			"thumbnail_image": "img/content/thumbnail.jpg",
-			"image": "img/content/full.jpg",
+			"type": "music",
+			"title": "Yiruma - Kiss The Rain Cover",
+			"thumbnail_image": "img/content/kiss-the-rain.jpg",
+			"embed_url": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fej.perez.144%2Fvideos%2Fvb.100000328434433%2F1695312907156307%2F%3Ftype%3D2%26video_source%3Duser_video_tab&width=500&show_text=false&height=300&appId",
 			"description": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Pellentesque in ipsum id orci porta dapibus. Pellentesque in ipsum id orci porta dapibus."
 		}
 	]
